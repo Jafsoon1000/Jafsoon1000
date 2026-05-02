@@ -26,9 +26,3 @@ I am a passionate Full Stack Developer focused on building clean, functional, an
 
 ---
 
-### 📊 GitHub Stats
-![Jafsoon's Stats](https://github-readme-stats.vercel.app/api?username=Jafsoon1000&show_icons=true&theme=vision-friendly-dark&hide_border=true&align=center)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jafsoon1000&layout=compact&theme=vision-friendly-dark&hide_border=true)
-
----
